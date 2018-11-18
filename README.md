@@ -4,7 +4,11 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+firs change add no commit
+
 ## Purpose
+
+second change no add
 
 ## Deployment
 
