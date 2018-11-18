@@ -15,3 +15,7 @@ second change no add
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+## Copyright
+
+2014 somthing somthig
