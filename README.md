@@ -16,6 +16,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+plz fork and issue
+
 ## Copyright
 
 2014 somthing somthig
