@@ -22,3 +22,4 @@ plz fork and issue
 ## Copyright
 
 2014 somthing somthig
+all rights reserved
